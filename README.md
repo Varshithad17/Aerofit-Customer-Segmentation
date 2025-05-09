@@ -13,7 +13,8 @@ Aerofit, a leading fitness equipment brand, aims to analyze customer profiles to
     + Visualization: Matplotlib, Seaborn
     + Statistical Analysis: SciPy, Statsmodels
 # 📊 Dataset
-Source: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/125/original/aerofit_treadmill.csv?1639992749
+Source: [https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/125/original/aerofit_treadmill.csv?1639992749](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/125/original/aerofit_treadmill.csv?1639992749)
+
 Features Included:
 - Product Purchased: KP281, KP481, or KP781.
 - Age: Customer's age (years).
